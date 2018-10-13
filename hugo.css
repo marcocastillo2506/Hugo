@@ -1,0 +1,11 @@
+body{
+  background-color: red;
+  background-image: url("http://mediad.publicbroadcasting.net/p/kalw/files/styles/medium/public/201804/hola_code_students.jpg");
+  background-position: center;
+  background-position: top;
+  background-repeat: no-repeat;
+
+}
+h1{
+text-align: center;
+}
